@@ -18,6 +18,14 @@ obj
 *.userprefs
 test-results
 
+# Rider
+.idea/
+
 # Custom
 Match-One.sln
 ProjectVersion.txt
+
+Assets/Plugins
+Assets/Plugins.meta
+Assembly-CSharp-Editor-firstpass.csproj
+CodeGenerator/Plugins/Entitas.Roslyn
